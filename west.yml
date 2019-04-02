@@ -1,0 +1,19 @@
+manifest:
+  defaults:
+    remote: aur
+
+  remotes:
+    - name: aur
+      url-base: https://aur.archlinux.org
+
+  projects:
+    - name: dtrx
+    - name: google-chrome
+    - name: google-talkplugin
+    - name: libcurl-compat
+    - name: spotify
+    - name: slack-desktop
+
+  self:
+    path: manifest
+    west-commands: west-commands.yml
