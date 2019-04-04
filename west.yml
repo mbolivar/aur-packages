@@ -13,6 +13,7 @@ manifest:
     - name: libcurl-compat
     - name: spotify
     - name: slack-desktop
+    - name: pidgin-sipe
 
   self:
     path: manifest
