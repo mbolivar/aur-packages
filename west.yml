@@ -15,7 +15,9 @@ manifest:
     - name: slack-desktop
     - name: pidgin-sipe
     - name: jlink-software-and-documentation
+    - name: jlink-systemview
     - name: ncurses5-compat-libs
+    - name: mscgen
 
   self:
     path: manifest
