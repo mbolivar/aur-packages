@@ -19,6 +19,9 @@ manifest:
     - name: jlink-systemview
     - name: ncurses5-compat-libs
     - name: mscgen
+    - name: unmakeself
+    - name: lpcscrypt
+    - name: nrf5x-command-line-tools
 
   self:
     path: manifest
