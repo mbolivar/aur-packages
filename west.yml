@@ -22,6 +22,8 @@ manifest:
     - name: unmakeself
     - name: lpcscrypt
     - name: nrf5x-command-line-tools
+    - name: grabserial
+    - name: stm32flash
 
   self:
     path: manifest
