@@ -27,4 +27,3 @@ manifest:
 
   self:
     path: manifest
-    west-commands: west-commands.yml
