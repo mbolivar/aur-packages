@@ -24,6 +24,8 @@ manifest:
     - name: nrf5x-command-line-tools
     - name: grabserial
     - name: stm32flash
+    - name: ozone
+    - name: snapd
 
   self:
     path: manifest
